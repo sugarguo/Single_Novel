@@ -1,0 +1,34 @@
+Title:
+【大主宰 | dzz.party】
+GetUrl:
+http://www.biquge.la/book/176/
+ToUrl:
+http://dzz.party/
+AllPath:
+dzztxt
+UrlPath:
+Url.dat
+ChapterPath:
+Chapter.dat
+RUrlChapter:
+<dd><a href="([\s\S]*?)">([\s\S]*?)</a></dd>
+RArticle:
+<div id="content">([\s\S]*?)</div>
+Get_act_1.html
+model/act_1.html
+Get_act_2.html
+model/act_2.html
+Get_act_3.html
+model/act_3.html
+Get_act_4.html
+model/act_4.html
+Get_model_1.html
+model/model_1.html
+Get_model_2.html
+model/model_2.html
+Get_list_1.html
+model/list_1.html
+Get_list_2.html
+model/list_2.html
+Get_list_3.html
+model/list_3.html
